@@ -1,9 +1,8 @@
 # Ecoleta NLW#01  ![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
 
-### Projeto implementado durante a Next Level Week ![innovation](https://user-images.githubusercontent.com/38790522/87853917-6b81f880-c8e4-11ea-848c-2f403ce38359.png)
+### Projeto implementado durante a Next Level Week 
 
-
-#### Bibliotecas e tecnologias utilizadas:
+![innovation](https://user-images.githubusercontent.com/38790522/87853917-6b81f880-c8e4-11ea-848c-2f403ce38359.png)  #### Bibliotecas e tecnologias utilizadas:
 - [Node.JS;](https://nodejs.org/en/)
 - [TypeScript;](https://www.typescriptlang.org/)
 - [JavaScript;](https://www.javascript.com/)
