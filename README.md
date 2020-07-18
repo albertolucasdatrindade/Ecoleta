@@ -20,3 +20,8 @@ Ecoleta é uma plataforma marketplace idealizada para facilitar o encontro entre
 Para clonar e executar essa aplicação, é necessário ter o [Node.JS](https://nodejs.org/en/), o [Yarn](https://yarnpkg.com/) e [Git](https://gitforwindows.org/) instalados na sua máquina.
  
 A partir da sua linha de comando:
+
+```sh
+# Clone esse repositório
+$ https://github.com/albertolucasdatrindade/Ecoleta.git
+```
