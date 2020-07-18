@@ -4,7 +4,7 @@ Projeto implementado durante a Next Level Week #01
 
 Bibliotecas e tecnologias utilizadas:
 [aqui.](https://albertolucasdatrindade.github.io/imersao_gamedev_alura/) 
-- [Node.JS;]
+- [Node.JS;](https://albertolucasdatrindade.github.io/imersao_gamedev_alura/)
 - [TypeScript;]
 - [JavaScript;]
 - [Git Bash;]
