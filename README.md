@@ -17,5 +17,5 @@ Ecoleta é uma plataforma marketplace idealizada para facilitar o encontro entre
 - [SQLite;](https://www.sqlite.org/index.html)
 
 ### <img src="https://img.icons8.com/color/30/000000/command-line.png"/> Como executar a aplicaçao
-Para clonar e executar essa aplicação, é necessário ter o [Node.JS;](https://nodejs.org/en/), o Yarn e [Git;](https://gitforwindows.org/) instalados na sua máquina.
+Para clonar e executar essa aplicação, é necessário ter o [Node.JS](https://nodejs.org/en/), o [Yarn](https://yarnpkg.com/) e [Git](https://gitforwindows.org/) instalados na sua máquina.
  
