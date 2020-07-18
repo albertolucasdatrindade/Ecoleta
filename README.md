@@ -1,4 +1,5 @@
-# Ecoleta ![Sem título](https://user-images.githubusercontent.com/38790522/87840851-21632d80-c878-11ea-9953-2d7b5aa132d1.png)
+# Ecoleta ![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
+
 
 
 <img src="https://img.icons8.com/doodle/48/000000/eco.png"/> <img src="https://img.icons8.com/color/48/000000/recycle-sign.png"/>
