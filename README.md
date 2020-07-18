@@ -83,3 +83,4 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 ```
+![cone](https://user-images.githubusercontent.com/38790522/87858566-29b57a00-c905-11ea-97df-42ea37898cd0.png) O From-End e o Mobile são dependentes do Back-End para execução.
