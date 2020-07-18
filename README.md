@@ -49,4 +49,4 @@ $ npm run knex:seed
 # Executando a aplicação em modo de desenvolvimento:
 $ npm run dev
 ```
-O browser deverá abrir a aplicação automaticamente, caso contrário inicie manualmente acessando: http://localhost:3000
+O browser deverá abrir a aplicação automaticamente, caso contrário, inicie manualmente acessando: http://localhost:3000
