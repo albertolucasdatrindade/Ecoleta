@@ -7,7 +7,7 @@ Ecoleta é uma plataforma marketplace idealizada para facilitar o encontro entre
 
 
 ###  ![innovation (1)](https://user-images.githubusercontent.com/38790522/87854016-024eb500-c8e5-11ea-8d88-379cc4341e51.png) Bibliotecas e tecnologias utilizadas: 
-- [Node.JS;](https://nodejs.org/en/)
+- [NodeJS;](https://nodejs.org/en/)
 - [TypeScript;](https://www.typescriptlang.org/)
 - [JavaScript;](https://www.javascript.com/)
 - [Expo;](https://expo.io/)
