@@ -7,6 +7,7 @@
 - [Node.JS;](https://nodejs.org/en/)
 - [TypeScript;](https://www.typescriptlang.org/)
 - [JavaScript;](https://www.javascript.com/)
+- [Expo;](https://expo.io/)
 - [HTML;](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS;](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Git Bash;](https://gitforwindows.org/)
