@@ -16,4 +16,4 @@ Ecoleta é uma plataforma marketplace idealizada para facilitar o encontro entre
 - [Git Bash;](https://gitforwindows.org/)
 - [SQLite;](https://www.sqlite.org/index.html)
 
-
+### <img src="https://img.icons8.com/color/48/000000/command-line.png"/> Como executar a aplicaçao
