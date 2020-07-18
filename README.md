@@ -26,7 +26,9 @@ A partir da sua linha de comando:
 $ https://github.com/albertolucasdatrindade/Ecoleta.git
 ```
 
-#### Em seguida, para instalar o Back-end:
+#### Em seguida:
+
+## Para iniciar o Back-end:
 
 ```sh
 # Acesse a pasta da aplicação através da linha de comando
