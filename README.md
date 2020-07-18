@@ -1,4 +1,4 @@
-# Ecoleta <img src="https://img.icons8.com/color/48/000000/recycle-sign.png"/>
+# Ecoleta <img src="https://img.icons8.com/doodle/48/000000/eco.png"/> <img src="https://img.icons8.com/color/48/000000/recycle-sign.png"/>
 
 Projeto implementado durante a Next Level Week #01
 
