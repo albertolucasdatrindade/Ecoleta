@@ -1,10 +1,9 @@
-# Ecoleta NLW#01![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
+#                                                                    Ecoleta NLW#01![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
 
-<center>Centered text</center>
 
 ### Projeto implementado durante a Next Level Week
 
-Bibliotecas e tecnologias utilizadas:
+#### Bibliotecas e tecnologias utilizadas:
 - [Node.JS;](https://nodejs.org/en/)
 - [TypeScript;](https://www.typescriptlang.org/)
 - [JavaScript;](https://www.javascript.com/)
@@ -12,6 +11,8 @@ Bibliotecas e tecnologias utilizadas:
 - [CSS;](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Git Bash;](https://gitforwindows.org/)
 - [SQLite;](https://www.sqlite.org/index.html)
+
+
 
 
 
