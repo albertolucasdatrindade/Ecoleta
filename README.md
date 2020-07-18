@@ -12,7 +12,7 @@
 
 
 ###   ![computer](https://user-images.githubusercontent.com/38790522/87855074-4f825500-c8ec-11ea-8bfb-604cd6efc3ae.png) Projeto
-
+Ecoleta é uma plataforma marketplace idealizada para facilitar o encontro entre pessoas e entidades de coleta de resíduos orgânicos e inorgânicos
 
 ![ecoleta](https://user-images.githubusercontent.com/38790522/87840292-473b0300-c875-11ea-80b7-dfbf8e87a43c.png)
 
