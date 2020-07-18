@@ -3,7 +3,6 @@
 Projeto implementado durante a Next Level Week #01
 
 Bibliotecas e tecnologias utilizadas:
-
 * CSS;
 - Node.JS;
 - TypeScript;
