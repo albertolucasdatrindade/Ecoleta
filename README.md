@@ -21,10 +21,10 @@ Para clonar e executar essa aplicação, é necessário ter o [Node.JS](https://
  
 A partir da sua linha de comando:
 
-## 1.Para iniciar o Back-end:
+## Para iniciar o Back-End:
 
 ```sh
-# Clone esse repositório
+# Clone este repositório
 $ https://github.com/albertolucasdatrindade/Ecoleta.git
 
 # Acesse a pasta da aplicação através da linha de comando
@@ -45,4 +45,41 @@ $ npm run knex:seed
 # Executando a aplicação em modo de desenvolvimento:
 $ npm run dev
 ```
+
+## Para iniciar o Front-End:
+
+```sh
+# Clone este repositório
+$ https://github.com/albertolucasdatrindade/Ecoleta.git
+
+# Acesse a pasta da aplicação através da linha de comando
+$ cd Ecoleta
+
+# Vá para a pasta web
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+```
 O browser deverá abrir a aplicação automaticamente, caso contrário, inicie manualmente acessando: http://localhost:3000
+
+## Para iniciar o Mobile
+```sh
+# Clone este repositório
+$ https://github.com/albertolucasdatrindade/Ecoleta.git
+
+# Acesse a pasta da aplicação através da linha de comando
+$ cd Ecoleta
+
+# Vá para a pasta mobile
+$ cd mobile
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
+```
