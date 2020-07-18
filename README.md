@@ -66,7 +66,7 @@ $ npm start
 ```
 O browser deverá abrir a aplicação automaticamente, caso contrário, inicie manualmente acessando: http://localhost:3000
 
-## Para iniciar o Mobile
+## Para iniciar o Mobile:
 ```sh
 # Clone este repositório
 $ https://github.com/albertolucasdatrindade/Ecoleta.git
