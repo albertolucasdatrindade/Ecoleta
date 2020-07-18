@@ -21,16 +21,12 @@ Para clonar e executar essa aplicação, é necessário ter o [Node.JS](https://
  
 A partir da sua linha de comando:
 
+## 1.Para iniciar o Back-end:
+
 ```sh
 # Clone esse repositório
 $ https://github.com/albertolucasdatrindade/Ecoleta.git
-```
 
-#### Em seguida:
-
-## Para iniciar o Back-end:
-
-```sh
 # Acesse a pasta da aplicação através da linha de comando
 $ cd Ecoleta
 
