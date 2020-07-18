@@ -11,7 +11,7 @@
 - [SQLite;](https://www.sqlite.org/index.html)
 
 
-###  ![computer](https://user-images.githubusercontent.com/38790522/87855074-4f825500-c8ec-11ea-8bfb-604cd6efc3ae.png) Projeto
+###   ![computer](https://user-images.githubusercontent.com/38790522/87855074-4f825500-c8ec-11ea-8bfb-604cd6efc3ae.png) Projeto
 
 
 ![ecoleta](https://user-images.githubusercontent.com/38790522/87840292-473b0300-c875-11ea-80b7-dfbf8e87a43c.png)
