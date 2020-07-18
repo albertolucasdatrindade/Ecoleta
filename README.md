@@ -25,3 +25,19 @@ A partir da sua linha de comando:
 # Clone esse repositório
 $ https://github.com/albertolucasdatrindade/Ecoleta.git
 ```
+
+#### Em seguida, para instalar o Back-end:
+
+```sh
+# Acesse a pasta da aplicação através da linha de comando
+$ cd Ecoleta
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+```
