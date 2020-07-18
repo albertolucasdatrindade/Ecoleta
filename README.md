@@ -2,4 +2,5 @@
 
 Projeto implementado durante a Next Level Week #01
 
-![ecoleta](https://user-images.githubusercontent.com/38790522/87840105-4786ce80-c874-11ea-9472-f24cb63c9c56.png)
+![ecoleta](https://user-images.githubusercontent.com/38790522/87840292-473b0300-c875-11ea-80b7-dfbf8e87a43c.png)
+
