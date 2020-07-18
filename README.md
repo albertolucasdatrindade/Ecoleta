@@ -1,6 +1,6 @@
 # Ecoleta NLW#01  ![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
 
-### Projeto implementado durante a Next Level Week ![innovation (1)](https://user-images.githubusercontent.com/38790522/87853876-35dd0f80-c8e4-11ea-89b4-2e794dadfba8.png)
+### Projeto implementado durante a Next Level Week ![innovation](https://user-images.githubusercontent.com/38790522/87853917-6b81f880-c8e4-11ea-848c-2f403ce38359.png)
 
 
 #### Bibliotecas e tecnologias utilizadas:
