@@ -42,7 +42,7 @@ $ npm run knex:migrate
 # Iniciando o banco de dados (seeds)
 $ npm run knex:seed
 
-# Executando a aplicação em modo de desenvolvimento:
+# Executando a aplicação em modo de desenvolvimento
 $ npm run dev
 ```
 
