@@ -24,7 +24,6 @@ A partir da sua linha de comando:
 >Faça um clone deste repositório
 
 ```sh
-# Clone este repositório
 $ git clone https://github.com/albertolucasdatrindade/Ecoleta.git
 ```
 
