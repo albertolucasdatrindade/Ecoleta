@@ -25,7 +25,7 @@ A partir da sua linha de comando:
 
 ```sh
 # Clone este repositório
-$ https://github.com/albertolucasdatrindade/Ecoleta.git
+$ git clone https://github.com/albertolucasdatrindade/Ecoleta.git
 
 # Acesse a pasta da aplicação através da linha de comando
 $ cd Ecoleta
@@ -50,7 +50,7 @@ $ npm run dev
 
 ```sh
 # Clone este repositório
-$ https://github.com/albertolucasdatrindade/Ecoleta.git
+$ git clone https://github.com/albertolucasdatrindade/Ecoleta.git
 
 # Acesse a pasta da aplicação através da linha de comando
 $ cd Ecoleta
@@ -69,7 +69,7 @@ O browser deverá abrir a aplicação automaticamente, caso contrário, inicie m
 ## Para iniciar o Mobile:
 ```sh
 # Clone este repositório
-$ https://github.com/albertolucasdatrindade/Ecoleta.git
+$ git clone https://github.com/albertolucasdatrindade/Ecoleta.git
 
 # Acesse a pasta da aplicação através da linha de comando
 $ cd Ecoleta
