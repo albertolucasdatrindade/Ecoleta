@@ -24,7 +24,7 @@ A partir da sua linha de comando:
 >Faça um clone deste repositório
 
 ```sh
-$ git clone https://github.com/albertolucasdatrindade/Ecoleta.git
+$ git clone https://github.com/AlbertoLucass/Ecoleta.git
 ```
 
 >Em seguida
